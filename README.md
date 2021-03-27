@@ -1,2 +1,0 @@
-# virtual-states-of-internet
-world power
